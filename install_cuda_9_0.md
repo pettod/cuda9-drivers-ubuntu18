@@ -1,4 +1,4 @@
-# Install Tensorflow on Ubuntu (18.04)
+# Install Tensorflow with CUDA 9.0 on Ubuntu (18.04)
 
 Original template taken from <https://github.com/markjay4k/Install-Tensorflow-on-Ubuntu-17.10-/blob/master/Tensorflow%20Install%20instructions.ipynb>.
 
