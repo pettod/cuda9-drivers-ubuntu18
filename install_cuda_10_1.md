@@ -67,7 +67,7 @@ export LD_LIBRARY_PATH=/usr/local/cuda-10.1/lib64${LD_LIBRARY_PATH:+:${LD_LIBRAR
 
 - Go to <https://developer.nvidia.com/rdp/cudnn-download>
 - Select: 1. "Download cuDNN v7.6.5 (November 5th, 2019), for CUDA 10.1", 2. "cuDNN Library for Linux"
-- Download the cuDNN v7.0.5 Library for Linux (tar file)
+- Download the cuDNN v7.6.5 Library for Linux (tar file)
 - Open a terminal in the directory the tar file is located
 - Unzip the tar file using the command
 
@@ -126,3 +126,5 @@ python
 ```bash
 sudo nvidia-xconfig -sli=on -multigpu=on
 ```
+
+Reboot.
